@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noticias>
+    <noticia id="noticia1">
+        <titulo>Gran Final de la Copa Mundial</titulo>
+        <descripcion>El equipo A se corona campeón tras vencer al equipo B en una intensa final.</descripcion>
+        <fecha>2025-01-15</fecha>
+        <enlace>https://example.com/final-copa-mundial</enlace>
+    </noticia>
+    <noticia id="noticia2">
+        <titulo>Rafael Nadal Anuncia Retiro</titulo>
+        <descripcion>El tenista español se despide del deporte tras una brillante carrera.</descripcion>
+        <fecha>2025-01-14</fecha>
+        <enlace>https://example.com/nadal-retiro</enlace>
+    </noticia>
+    <noticia id="noticia3">
+        <titulo>Récord de Usain Bolt Sigue Imbatido</titulo>
+        <descripcion>Se cumplen 10 años desde que Bolt estableció el récord mundial de 100 metros.</descripcion>
+        <fecha>2025-01-13</fecha>
+        <enlace>https://example.com/usain-bolt-record</enlace>
+    </noticia>
+</noticias>
